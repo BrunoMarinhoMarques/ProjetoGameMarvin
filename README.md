@@ -5,7 +5,7 @@
 
 ## Introdução
 
-Seja bem vindo! Para você que é apaixonado em jogos / programação ou os dois kkkkk 🕹️🖥️
+Seja bem vindo! Para você que é apaixonado em jogos/programação ou os dois kkkkk 🕹️🖥️
 
 ## Sobre o Projeto
 
