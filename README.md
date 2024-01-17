@@ -1,4 +1,4 @@
-# Meu Projeto de Jogo
+# Projeto Game Marvin 🎮
 
 ![image](https://github.com/BrunoMarinhoMarques/ProjetoGameMarvin/assets/127245644/ac3722b9-0975-4dba-9bb6-fb725458c7a3)
 
@@ -25,14 +25,6 @@ O jogo está sendo desenvolvido na plataforma Unity usando C#, com objetos 3D cr
 ## Progresso e Atualizações
 
 Conforme avanço no desenvolvimento ou incluo novos elementos, compartilharei atualizações neste README. Fiquem à vontade para sugerir melhorias, reportar bugs ou apenas acompanhar o progresso.
-
-
-## Capturas de Tela
-
-Incluí algumas capturas de tela do projeto para dar uma prévia visual:
-
-![Captura de Tela 1](![image](https://github.com/BrunoMarinhoMarques/ProjetoGameMarvin/assets/127245644/f2e3d434-1029-4c6b-96f3-ad8f23c9d5e1)
-)
 Espero que gostem do que estou criando! Obrigado por acompanhar o desenvolvimento do meu jogo.
 
 --- 
