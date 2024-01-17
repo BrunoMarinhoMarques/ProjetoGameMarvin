@@ -6,6 +6,7 @@
 ## Introdução
 
 Seja bem vindo! Para você que é apaixonado em jogos/programação ou os dois kkkkk 🕹️🖥️
+Há algum tempo, eu estava ansioso para tirar este projeto do papel, e finalmente consegui! Comecei a construção de um jogo que combina minhas paixões por programação, desenho e jogos.
 
 ## Sobre o Projeto
 
