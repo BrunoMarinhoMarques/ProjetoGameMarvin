@@ -1,7 +1,7 @@
 # Meu Projeto de Jogo
 
-![Imagem do Projeto](![image](https://github.com/BrunoMarinhoMarques/ProjetoGameMarvin/assets/127245644/758642a0-1ee7-4d66-888f-97b38180d45d)
-)
+![image](https://github.com/BrunoMarinhoMarques/ProjetoGameMarvin/assets/127245644/ac3722b9-0975-4dba-9bb6-fb725458c7a3)
+
 
 ## Introdução
 
