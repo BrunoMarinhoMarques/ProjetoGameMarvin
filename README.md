@@ -19,8 +19,10 @@ Há algum tempo, eu estava ansioso para tirar este projeto do papel, e finalment
 
 Decidi iniciar este projeto porque acredito que a união dessas três paixões pode resultar em algo único e especial. Comecei estudando o Blender para desenvolver um personagem com base em um desenho que fiz. Apesar de ainda estar em estágio inicial e apresentar alguns erros e bugs na animação do personagem, estou feliz com o progresso até agora!
 
- <p><h5>Desenho utilizado como inspiração</h5></p>
-![DesenhoInspiracao](https://github.com/BrunoMarinhoMarques/ProjetoGameMarvin/assets/127245644/5b006917-7d42-4898-990c-c9e1646d5fc7)
+ <p><h5>Desenho utilizado como inspiração:</h5></p>
+
+![DesenhoInspiracao](https://github.com/BrunoMarinhoMarques/ProjetoGameMarvin/assets/127245644/60240224-19cb-42bf-a52c-b40ed3c9934b)
+
 
 
  
