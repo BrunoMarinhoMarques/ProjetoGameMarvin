@@ -1,6 +1,10 @@
 # Projeto Game Marvin 🎮
 
-https://github.com/BrunoMarinhoMarques/ProjetoGameMarvin/assets/127245644/75e5c198-b0eb-4307-ad3a-9aef5171334a
+
+
+https://github.com/BrunoMarinhoMarques/ProjetoGameMarvin/assets/127245644/2db84145-5ce5-43ae-9b7c-ed63ee8e13aa
+
+
 
 
 
@@ -16,7 +20,8 @@ Há algum tempo, eu estava ansioso para tirar este projeto do papel, e finalment
 Decidi iniciar este projeto porque acredito que a união dessas três paixões pode resultar em algo único e especial. Comecei estudando o Blender para desenvolver um personagem com base em um desenho que fiz. Apesar de ainda estar em estágio inicial e apresentar alguns erros e bugs na animação do personagem, estou feliz com o progresso até agora!
 
  <p><h5>Desenho utilizado como inspiração</h5></p>
-![WhatsApp Image 2024-01-16 at 19 39 07](https://github.com/BrunoMarinhoMarques/ProjetoGameMarvin/assets/127245644/1c6711ca-3353-4687-8247-896d8e5be2b1)
+![DesenhoInspiracao](https://github.com/BrunoMarinhoMarques/ProjetoGameMarvin/assets/127245644/5b006917-7d42-4898-990c-c9e1646d5fc7)
+
 
  
 
